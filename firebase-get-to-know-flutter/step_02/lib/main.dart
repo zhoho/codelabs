@@ -9,7 +9,6 @@ import 'home_page.dart';
 
 void main() {
   runApp(const App());
-  //asdasdasd;
 }
 
 class App extends StatelessWidget {
